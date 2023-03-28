@@ -1,4 +1,4 @@
-# This repository contains the projects that I completed as part of the JavaScript Algorithms and Data Structures certification on FreeCodeCamp. The certification requires the completion of several coding challenges and five projects that test the knowledge of JavaScript and algorithmic problem-solving skills.
+## This repository contains the projects that I completed as part of the JavaScript Algorithms and Data Structures certification on FreeCodeCamp. The certification requires the completion of several coding challenges and five projects that test the knowledge of JavaScript and algorithmic problem-solving skills.
 Projects
 
 ## The following are the projects that I have completed as part of the certification:
@@ -29,8 +29,7 @@ To run these projects locally, you can clone this repository and open the index.
 
 bash
 
-git clone https://github.com/your-username/freecodecamp-javascript-algorithms.git
-cd freecodecamp-javascript-algorithms
+git clone https://github.com/CobbyElsonfx/JS-HUB.git
 open project-1/index.html
 open project-2/index.html
 open project-3/index.html
